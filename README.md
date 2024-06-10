@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @MashiyatMahjabinEshita
 - 👀 **I’m interested in**
-- <br>
-    - HCI
-    - Linux
-    - Python
-    - Usable Privacy and Security
+    -  <br> HCI
+    -  <br> Linux
+    -  <br> Python
+    -  <br> Usable Privacy and Security
 - 📫 How to reach me: mashiyat.mahjabin.eshita@g.bracu.ac.bd
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
