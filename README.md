@@ -1,8 +1,7 @@
 
- <p align="right">
-  <img src="https://media.giphy.com/media/snpENu20kUrTESS3ko/giphy.gif" alt="Cheeky Panda" width="480" height="271">
-</p>
 - 👋 Hi, I’m @MashiyatMahjabinEshita
+  
+![Cheeky Panda](https://media.giphy.com/media/snpENu20kUrTESS3ko/giphy.gif)
 - 👀 **I’m interested in**
     - HCI
     - Linux
