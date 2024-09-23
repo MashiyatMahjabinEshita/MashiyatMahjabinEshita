@@ -10,7 +10,6 @@
       
 - 📫 How to reach me: mashiyat.mahjabin.eshita@g.bracu.ac.bd
 - [🏠 Visit My Homepage](https://sites.google.com/g.bracu.ac.bd/mashiyat24eshita/home)
-- 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
   Did you know that I like using Linux commands too much? It's like poetry in motion but for computers! Haha!!!
