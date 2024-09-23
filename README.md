@@ -2,10 +2,10 @@
 - 👀 **I’m interested in**
     - HCI
     - Linux
-    -  Python
-    -  Usable Privacy and Security
-- 📫 How to reach me: [My Profile](https://github.com/[your-username](https://sites.google.com/g.bracu.ac.bd/mashiyat24eshita/home))
--  mail: mashiyat.mahjabin.eshita@g.bracu.ac.bd
+    - Python
+    - Usable Privacy and Security
+- 📫 How to reach me: [My Profile](https://github.com/[MashiyatMahjabinEshita](https://sites.google.com/g.bracu.ac.bd/mashiyat24eshita/home))
+- [Email](https://github.com/[MashiyatMahjabinEshita](mashiyat.mahjabin.eshita@g.bracu.ac.bd))
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
   Did you know that I like using Linux commands too much? It's like poetry in motion but for computers! Haha!!!
