@@ -12,3 +12,6 @@
 MashiyatMahjabinEshita/MashiyatMahjabinEshita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MashiyatMahjabinEshita&theme=tokyonight&hide_total_contributions=true)](https://git.io/streak-stats)
