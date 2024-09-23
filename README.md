@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @MashiyatMahjabinEshita
- ![Cheeky Panda](https://media.giphy.com/media/snpENu20kUrTESS3ko/giphy.gif)
+ <p align="right">
+  <img src="https://media.giphy.com/media/snpENu20kUrTESS3ko/giphy.gif" alt="Cheeky Panda" width="480" height="271">
+</p>
 
 - 👀 **I’m interested in**
     - HCI
