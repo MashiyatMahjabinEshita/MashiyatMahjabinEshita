@@ -5,7 +5,8 @@
     - Python
     - Usable Privacy and Security
 - 📫 How to reach me: mashiyat.mahjabin.eshita@g.bracu.ac.bd
-- [Visit my profile](https://github.com/[your-username](https://sites.google.com/g.bracu.ac.bd/mashiyat24eshita/home))
+- [🏠 Visit My Homepage](https://sites.google.com/g.bracu.ac.bd/mashiyat24eshita/home)
+
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
