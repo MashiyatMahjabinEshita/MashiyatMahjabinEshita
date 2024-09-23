@@ -1,14 +1,15 @@
 - 👋 Hi, I’m @MashiyatMahjabinEshita
-- ![Cheeky Panda](https://media.giphy.com/media/snpENu20kUrTESS3ko/giphy.gif)
+ ![Cheeky Panda](https://media.giphy.com/media/snpENu20kUrTESS3ko/giphy.gif)
+
 - 👀 **I’m interested in**
     - HCI
     - Linux
     - Python
     - Usable Privacy and Security
+      
 - 📫 How to reach me: mashiyat.mahjabin.eshita@g.bracu.ac.bd
 - [🏠 Visit My Homepage](https://sites.google.com/g.bracu.ac.bd/mashiyat24eshita/home)
-
-
+- 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
   Did you know that I like using Linux commands too much? It's like poetry in motion but for computers! Haha!!!
