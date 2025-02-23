@@ -1,7 +1,9 @@
 
 - 👋 Hi, I’m @MashiyatMahjabinEshita
   
-![Cheeky Panda](https://media.giphy.com/media/snpENu20kUrTESS3ko/giphy.gif)
+<!---![Cheeky Panda](https://media.giphy.com/media/snpENu20kUrTESS3ko/giphy.gif)--->
+![Cheeky Panda](https://ezgif.com/effects/ezgif-3c78af5174b538.gif)
+
 - 👀 **I’m interested in**
     - HCI
     - Linux
