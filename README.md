@@ -7,8 +7,6 @@
 
 
 
-
-
 - 👀 **I’m interested in**
     - HCI
     - Linux
