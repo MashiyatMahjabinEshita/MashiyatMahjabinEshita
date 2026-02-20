@@ -2,8 +2,9 @@
 - 👋 Hi, I’m @MashiyatMahjabinEshita
   
 <!---![Cheeky Panda](https://media.giphy.com/media/snpENu20kUrTESS3ko/giphy.gif)--->
-![panda](https://ezgif.com/save/ezgif-1202032f3cb329f7.gif)
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/e81beb89-148f-4815-8c82-ee383dbdbee9" />
+<!---![panda](https://ezgif.com/save/ezgif-1202032f3cb329f7.gif)--->
+<img width="392" height="270" alt="image" src="https://github.com/user-attachments/assets/d8cd78f0-397c-4e23-bc0c-87c554ea00ed" />
+
 
 
 
