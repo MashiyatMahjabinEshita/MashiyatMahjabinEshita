@@ -3,8 +3,8 @@
   
 <!---![Cheeky Panda](https://media.giphy.com/media/snpENu20kUrTESS3ko/giphy.gif)--->
 <!---![panda](https://ezgif.com/save/ezgif-1202032f3cb329f7.gif)--->
-[<img width="392" height="270" alt="image" src="https://github.com/user-attachments/assets/d8cd78f0-397c-4e23-bc0c-87c554ea00ed" />](https://i.pinimg.com/originals/7a/51/e4/7a51e4d036173a13e843263d7eddbc00.gif)
-
+[[<img width="392" height="270" alt="image" src="https://github.com/user-attachments/assets/d8cd78f0-397c-4e23-bc0c-87c554ea00ed" />](https://i.pinimg.com/originals/7a/51/e4/7a51e4d036173a13e843263d7eddbc00.gif)
+](https://i.pinimg.com/originals/7a/51/e4/7a51e4d036173a13e843263d7eddbc00.gif)
 
 
 - 👀 **I’m interested in**
