@@ -15,7 +15,7 @@
 - 📫 How to reach me: - mashiyat.mahjabin.eshita@g.bracu.ac.bd
 
 - [Google Scholar](https://scholar.google.com/citations?user=q6DopxEAAAAJ&hl=en)
-- [🏠 Visit My Homepage](https://sites.google.com/g.bracu.ac.bd/mashiyat24eshita/home)
+- [🏠 Visit My Homepage](https://sites.google.com/view/mashiyat-mahjabin-eshita/home)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
   Did you know that I like using Linux commands too much? It's like poetry in motion but for computers! Haha!!!
