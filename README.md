@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @MashiyatMahjabinEshita
+- 👋 Hi, I’m MashiyatMahjabinEshita
   
 <!---![Cheeky Panda](https://media.giphy.com/media/snpENu20kUrTESS3ko/giphy.gif)--->
 <!---![panda](https://ezgif.com/save/ezgif-1202032f3cb329f7.gif)--->
